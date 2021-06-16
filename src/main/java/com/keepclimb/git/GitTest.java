@@ -21,7 +21,7 @@ public class GitTest {
         System.out.println("123123");
         System.out.println("gitee push test");
         System.out.println("gitee pull test");
-System.out.println("github更新");
+        System.out.println("github更新");
     }
 
 }
