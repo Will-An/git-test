@@ -19,7 +19,7 @@ public class GitTest {
         System.out.println("pull test!");
         System.out.println("pull2 test!");
         System.out.println("123123");
-
+System.out.println("github更新");
     }
 
 }
